@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @N1ght4ct1ve
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me nothing
+- 👀 I’m interested in AI, Cybersecurity, Automation
+- 🌱 I’m currently learning Things that I can do with Python
+- 📫 How to reach me: Discord [N1ght#2970]
 
 <!---
 N1ght4ct1ve/N1ght4ct1ve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
